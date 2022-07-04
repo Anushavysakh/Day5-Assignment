@@ -5,3 +5,7 @@ for i in `seq $num`
 do
 	echo $(( $RANDOM % 10 ))
 done
+
+
+
+
